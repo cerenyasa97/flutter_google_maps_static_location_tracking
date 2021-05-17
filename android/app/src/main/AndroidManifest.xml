@@ -4,7 +4,7 @@
         android:label="maps_live_location"
         android:icon="@mipmap/ic_launcher">
        <meta-data android:name="com.google.android.geo.API_KEY"
-           android:value="AIzaSyCHdIvxMSt3qOxQsUeVKeyJDLoJow86QQ4"/>
+           android:value="YOUR-KEY-HERE"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
